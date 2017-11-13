@@ -23,5 +23,4 @@ We have the option to get screenshots from Saucelabs cross-browser tests. This t
     $ 
 ```
 
-- The visual difference will be saved as another image in diff/ folder.
-
+- The visual difference will be saved as another image in diff/ folder. Note that if the old and new images are the same, no diff will be saved in the diff folder.

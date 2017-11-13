@@ -9,6 +9,6 @@
   "license": "ISC",
   "description": "",
   "dependencies": {
-    "looks-same": "^3.2.1",
+    "looks-same": "^3.2.1"
   }
 }
