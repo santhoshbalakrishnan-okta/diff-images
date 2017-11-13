@@ -11,6 +11,7 @@ We have the option to get screenshots from Saucelabs cross-browser tests. This t
 - You will get a list of all the files read in the command line and if there are differences in the image, you will see something like this:
 
 ```
+    $ node index.js 
     ...
     ...
     Reading file: 0035screenshot.png
@@ -23,3 +24,4 @@ We have the option to get screenshots from Saucelabs cross-browser tests. This t
 ```
 
 - The visual difference will be saved as another image in diff/ folder.
+
